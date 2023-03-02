@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: #333;
+    color: #fff;
+    font-family: 'Roboto';
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
