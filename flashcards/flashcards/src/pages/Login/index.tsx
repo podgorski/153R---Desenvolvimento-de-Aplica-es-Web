@@ -18,7 +18,8 @@ const Login = () => {
 
     return (
         <>
-            <h1 onClick={() => signIn("antonio@podgorski.com.br", "123123")}>Login</h1>
+            <h1 onClick={() => signIn("antonio@podgorski.com.br", "123123")}>Login Papai</h1>
+            <h1 onClick={() => signIn("liz@podgorski.com.br", "123123")}>Login Liz</h1>
             <Link to="/dashboard">Ir para o Dashboard</Link>
 
         </>
